@@ -4,7 +4,7 @@ In the early days of the Trump Administration, I became curious about how the ex
 
 I pulled the data down separately from the Office of Personnel Management and then began working on how to display this data. I found at heatmap particularly captivating as a means to display the data from each cabinet level agency.
 
-![per agency change](Percent_change_per_Agency.png)
+![per agency change](./Figures/Percent_change_per_Agency.png)
 
 These data clearly highlight that there was a significant decrease in the number of Employees in all Cabinet level federal agencies after the Trump administration took office.
 
