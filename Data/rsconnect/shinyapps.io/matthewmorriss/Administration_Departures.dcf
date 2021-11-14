@@ -1,0 +1,12 @@
+name: Administration_Departures
+title: Administration_Departures
+username:
+account: matthewmorriss
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 516873
+bundleId: 1645629
+url: https://matthewmorriss.shinyapps.io/Administration_Departures/
+when: 1539697500.55142
+asMultiple: FALSE
+asStatic: FALSE
